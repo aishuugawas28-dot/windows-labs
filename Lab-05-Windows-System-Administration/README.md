@@ -106,11 +106,6 @@ These tools are commonly used by IT Support Engineers to:
 
 ---
 
-## LAB Status
-Completed Successfully
-
-
-
 ##  Lab Status
 
 Completed Successfully 
