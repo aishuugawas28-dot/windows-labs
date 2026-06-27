@@ -25,6 +25,8 @@ nslookup google.com
 - IPv4 connectivity was working.
 - Internet connectivity was available.
 
+## Screenshots
+All Screenshots are available inside the screenshots folder
 ## Learning Outcome
 
 - Learned how to verify IP configuration.
